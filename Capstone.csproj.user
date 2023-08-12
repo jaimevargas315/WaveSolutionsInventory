@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Views\AddInventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\AddOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\AddUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\BulkAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\BulkRemove.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\EditInventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\EditOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\EditUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\LogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Manager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Orders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Reports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Storage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
